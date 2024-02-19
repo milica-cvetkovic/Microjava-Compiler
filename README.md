@@ -1,2 +1,2 @@
 # Microjava-Compiler
-Code will be added at the end of current school year.
+Code will be uploaded at the end of current school year as a precaution on account of code theft and plagiarism.
